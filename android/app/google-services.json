@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160955098322",
+    "project_id": "connect-ce226",
+    "storage_bucket": "connect-ce226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160955098322:android:1c038b34e8aa105601790b",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbN0_1gR03yNjJHsfaVKo6ussgHSByoW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
