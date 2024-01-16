@@ -17,7 +17,7 @@ class _new_accState extends State<new_acc> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("User Ragistration"),
+        title: Text("Use Ragistration"),
         backgroundColor: Color.fromRGBO(1, 11, 43, 300),
       ),
       body:SingleChildScrollView(child: Container(alignment: Alignment.center,
