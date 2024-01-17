@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  print("object");
-  print("object");
+  print("abcd");
   runApp(const MyApp());
 }
 
